@@ -1,0 +1,29 @@
+.main-container {
+  background-color: #152850;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #152850;
+  border: 1px solid red;
+}
+
+.heading {
+  display: flex;
+  font-family: 'Roboto';
+  color: red;
+  font-size: 42px;
+  font-weight: bold;
+}
+
+.image-container {
+  display: flex;
+  flex-direction: column;
+}

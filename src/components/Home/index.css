@@ -16,11 +16,10 @@
 }
 
 .heading {
-  display: flex;
-  font-family: 'Roboto';
-  color: red;
+  color: #189850;
   font-size: 42px;
   font-weight: bold;
+  font-family: 'Roboto';
 }
 
 .image-container {
